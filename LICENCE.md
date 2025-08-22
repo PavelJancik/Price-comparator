@@ -1,6 +1,6 @@
 All Rights Reserved
 
-Copyright (c) 2025 Pavel Jančík
+Copyright (c) 2022 Pavel Jančík
 
 This software and its source code are the exclusive property of the copyright holder.
 
