@@ -1,5 +1,9 @@
 # Price Comparator
 
+<p align="center">
+  <img src="/thumbnail.jpg" alt="Price comparator" width="400"/>
+</p>
+
 A web application for comparing product prices across multiple shops. Built with Laravel (PHP) for the backend and Vue.js for the frontend.
 
 ## Features
@@ -26,51 +30,6 @@ A web application for comparing product prices across multiple shops. Built with
 -   Composer
 -   Node.js & npm
 -   MySQL or compatible database
-
-### Installation
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/PavelJancik/price_comparator.git
-    cd price_comparator/srovnavac
-    ```
-2. **Install PHP dependencies:**
-    ```bash
-    composer install
-    ```
-3. **Install JavaScript dependencies:**
-    ```bash
-    npm install
-    ```
-4. **Copy and configure environment file:**
-    ```bash
-    cp .env.example .env
-    # Edit .env to set your database and app settings
-    ```
-5. **Generate application key:**
-    ```bash
-    php artisan key:generate
-    ```
-6. **Run migrations and seeders:**
-    ```bash
-    php artisan migrate --seed
-    ```
-7. **Build frontend assets:**
-    ```bash
-    npm run dev
-    ```
-8. **Start the development server:**
-    ```bash
-    php artisan serve
-    ```
-
-Visit `http://localhost:8000` in your browser.
-
-## Running Tests
-
-```bash
-php artisan test
-```
 
 ## Project Structure
 
