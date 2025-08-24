@@ -1,7 +1,8 @@
 # Price Comparator
 
 <p align="center">
-  <img src="/screenshot.jpg" alt="Price comparator" width="400"/>
+  <img src="/screenshot.jpg" alt="Price comparator" width="49%"/>
+  <img src="/screenshot2.jpg" alt="Price comparator" width="49%"/>
 </p>
 
 A web application for comparing product prices across multiple shops. Built with Laravel (PHP) for the backend and Vue.js for the frontend.
